@@ -1,0 +1,17 @@
+.content{
+  margin: 15px auto;
+  width: 300px;
+  text-align: center;
+}
+
+th{
+  width: 200px;
+  padding: 10px;
+  background: red;
+}
+td{
+  font-size: 20px;
+  padding: 10px;
+  background: blue;
+  color: white;
+}
